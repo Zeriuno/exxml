@@ -1,0 +1,26 @@
+recipe{
+  visibility: hidden;
+  font: sans-serif ;
+  background-color: white ;
+  margin: auto;
+  width: 800px;
+}
+source{
+  color: grey;
+  font-size: 0.5em;
+}
+recipe:active{
+  background-color: yellow;
+}
+recipe:hover{
+  visibility: visible;
+}
+title{
+  font-size: 4em ;
+}
+name:hover{
+  color: #C3D9FF;
+}
+quality{
+  color: #FF5A5F;
+}

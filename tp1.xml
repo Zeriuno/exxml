@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <recipe type="dessert">
+  <title>Tarte au citron<source>(source Marmiton.org)</source></title>
+  <time>
+    <prepare>Temps de préparation: <minutes>15 minutes</minutes></prepare>
+    <cook>Temps de cuisson: <minutes>40 minutes</minutes></cook>
+  </time>
+  <ingredients>
+    <serving>(pour 8 personnes)</serving>
+    <pie>
+      <item><quantity>250</quantity> <unity type="weight" unity_name="grams">g</unity>de <name>farine</name> <quality>sans grumeaux</quality></item>
+      <item><quantity>125</quantity> <unity type="weight" unity_name="grams">g</unity> de <name>beurre</name> <quality>doux</quality></item>
+      <item><quantity>1</quantity> <unity type="volume"  unity_name="deciliters">dl</unity> d'<name>eau</name> environ</item>
+    </pie>
+    <stuffing>
+      <item><number>4</number><name>citrons</name> <quality>jaunes</quality> <quality>frais</quality> et <quality>juteux</quality></item>
+      <item><number>150</number> <unity type="weight" unity_name="grams">g</unity> de <name>sucre</name> <quality>semoule</quality></item>
+      <item><number>4</number><name>oeufs</name> <quality>moyens</quality></item>
+      <item><number>60</number> <unity type="weight" unity_name="grams">g</unity> de <name>beurre</name> <quality>doux</quality></item>
+    </stuffing>
+  </ingredients>
+  <how_to>
+    Préparation de la recette :
+    <actions on="pie">
+      Faire la pâte à tarte : mélanger à la <tool>main</tool> la <name>farine</name> et le <name>beurre</name> de façon à ce que ce soit comme du <how>sable</how> <how>homogène</how> <how>assez fin</how>... Puis lier la pâte pour en faire une boule à l’aide de l’<name>eau</name>. Étaler cette pâte et la placer dans un grand <tool>moule</tool> à tarte peu beurré. Il est très facile de transporter cette pâte jusqu’au <tool>moule</tool> !
+    </actions>
+    <actions on="stuffing">
+      Préparer la garniture : extraire la pulpe et le jus des <name>citrons</name>, et réduire le tout en <how>purée</how>. <smiley tone="attention">/!\</smiley> Faire attention à bien extraire les pépins ! Mélanger cette purée au <name>sucre</name> et aux <name>œufs</name> entiers. Ajouter également le <name>beurre</name> <how>fondu</how>. Verser la garniture dans le <tool>moule</tool>.
+    </actions>
+    <sidenote>
+    <smiley tone="attention">
+      /!\
+    </smiley>
+     Ne pas s’inquiéter d’un aspect un peu liquide/flotte , ça épaissit lors de la cuisson.
+    </sidenote>
+    <actions on="cooking">
+      Mettre au <tool>four</tool> préchauffé à <number>180</number><unity type="temperature" unity_name="Celsius degrees"> °C</unity> durant <number>40</number> <unity type="time" unity_name="minutes">mn</unity>.
+    </actions>
+  </how_to>
+  <notes>
+    Remarques : Encore une recette délicieuse qui mérite le détour. La tarte se tient très bien.
+    En effet il est aisé de la démouler et même de la manger avec les mains ! Son côté acidulé plaît énormément !
+    <smiley tone="happy">
+      :)
+    </smiley>
+  </notes>
+  <suggestions>
+    <drink taste="sweet">
+      Boisson conseillée : un chocolat viennois pour adoucir le palais
+    </drink>
+  </suggestions>
+</recipe>
