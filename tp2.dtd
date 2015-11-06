@@ -1,0 +1,18 @@
+<!ELEMENT exercice  (title, author?, date?, context?, to_do+)>
+<!ELEMENT header    (title, author, date?)>
+<!ELEMENT title     #PCDATA>
+<!ATTLIST course    CDATA #REQUIRED
+          id ID     #REQUIRED>
+<!ELEMENT author    #PCDATA>
+<!ATTLIST qualify   CDATA #IMPLIED
+          title     CDATA #IMPLIED>
+<!ELEMENT date      (#PCDATA)>
+<!ELEMENT you_have  (to_do)+>
+<!ELEMENT context   (data?)>
+<!ELEMENT data      (#PCDATA, source?)>
+<!ELEMENT source    (#PCDATA)>
+<!ELEMENT to_do     (part+)>
+<!ATTLIST number    CDATA #IMPLIED>
+<!ELEMENT part      (question|to_do)>
+<!ELEMENT question  (#PCDATA)>
+<!ATTLIST number    CDATA #CDATA>
