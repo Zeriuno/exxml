@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf8"?>
+<!DOCTYPE tp2 SYSTEM "tp2.dtd">
+<header>
+<exercice ()>
+  <title course="xml" id="2015090000030201">
+    XML : TP n°2
+  </title>
+  <author>
+    Fabrice Issac
+  </author>
+  <date>
+    octobre 2014
+  </date>
+  </header>
+  <you_have>
+    <to_do number="1">
+      Question 1 Utiliser la DTD recettes.dtd et des recettes se trouvant dans le fichier recettes.txt pour créer un corpus de recettes au format XML. On utilisera le greffon XML de jedit pour créer/valider. Ne pas oublier d’ajouter :
+      <![CDATA[<?xml version="1.0" encoding="utf8"?><!DOCTYPE listerecettes SYSTEM "recettes.dtd">]]>
+    </to_do>
+    <to_do number="2">
+      Question 2
+      <part>
+        <question number="1">
+          1. Écrire la DTD permettant de représenter l’énoncé d’un TP (se baser sur cet énoncé et celui de la séance précédente).
+        </question>
+        <question number="2">
+          2. Représenter l’énoncé de ce TP en respectant la DTD écrite.
+        </question>
+        <question number="3">
+          3. Ajouter une feuille de style CSS de manière à obtenir un résultat se rapprochant du PDF.
+        </question>
+      </part>
+    </to_do>
+  </you_have>
+</exercice>
+<!-- ID = année-UFR-4chiffres-UE-matière dans l'UE sur deux chiffres- souspartie -->
