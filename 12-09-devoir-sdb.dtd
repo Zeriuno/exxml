@@ -1,0 +1,4 @@
+<!ELEMENT catalogue (prints+)>
+<!ELEMENT estampe (title, serie?, number_serie?, cat_num1?, cat_num2?, height, width, inscription?, date, description, commentary)>
+
+commentary(comm1?, comm2?, comm3?)
