@@ -2,8 +2,13 @@
   <title>SVG 1</title>
   <desc>Premier SVG que j'ai écrit avec mes petites mains qui m'appartiennent à moi tout seul parce que sinon ce serait problématique</desc>
   <line x1="100" y1="110" x2="1000" y2="110" style="stroke:black"/>
+  <line x1="110" y1="100" x2="110" y2="100" style="stroke:red"/>
   <line x1="100" y1="120" x2="1000" y2="120" style="stroke:black"/>
+  <line x1="120" y1="100" x2="120" y2="100" style="stroke:red"/>
   <line x1="100" y1="130" x2="1000" y2="130" style="stroke:black"/>
+  <line x1="130" y1="100" x2="130" y2="100" style="stroke:red"/>
   <line x1="100" y1="140" x2="1000" y2="140" style="stroke:black"/>
+  <line x1="140" y1="100" x2="140" y2="100" style="stroke:red"/>
   <line x1="100" y1="150" x2="1000" y2="150" style="stroke:black"/>
+  <line x1="150" y1="100" x2="150" y2="100" style="stroke:red"/>
 </svg>
