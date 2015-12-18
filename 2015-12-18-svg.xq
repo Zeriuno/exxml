@@ -1,3 +1,16 @@
+declare function local:case($x, $y, $c) {
+return
+  (
+    <line x1="{$x}" y1="{$y}" x2="{$x}" y2="{$y + $c}" style="stroke:black"/>
+    ,
+    <line x1="{$x}" y1="{$y + $c}" x2="{$x + $c}" y2="{$y + $c}" style="stroke:black"/>
+    ,
+    <line x1="{$x + $c}" y1="{$y + $c}" x2="{$x + $c}" y2="{$y}" style="stroke:black"/>
+    ,
+    <line x1="{$x + $x}" y1="{$y}" x2="{$x}" y2="{$y}" style="stroke:black"/>
+)
+}
+
 <svg xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     version="1.1"
