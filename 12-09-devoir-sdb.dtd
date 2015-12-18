@@ -16,4 +16,7 @@
 	<!ELEMENT words(description, commentary)>
 	  <!ELEMENT description #PCDATA>
 		<!ELEMENT commentary(comm1?, comm2?, comm3?)>
+			<!ELEMENT comm1 #PCDATA>
+			<!ELEMENT comm2 #PCDATA>
+			<!ELEMENT comm3 #PCDATA>
 ]>
