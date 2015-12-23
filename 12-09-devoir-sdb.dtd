@@ -1,22 +1,20 @@
-<!DOCTYPE catalogue [
 	<!ELEMENT catalogue (prints+)>
-	<!ELEMENT estampe (id, object, words)>
-	<!ELEMENT id(title, serie?, number_serie?, cat_num1?, cat_num2?, states, date)>
-		<!ELEMENT title #PCDATA>
-		<!ELEMENT serie #PCDATA>
-		<!ELEMENT number_serie #PCDATA>
-		<!ELEMENT cat_num1 #PCDATA>
-		<!ELEMENT cat_num2 #PCDATA>
-		<!ELEMENT states #PCDATA>
-		<!ELEMENT date #PCDATA>
-	<!ELEMENT object(measures, inscription?)>
-		<!ELEMENT measures(height, width)>
+	<!ELEMENT print (id, object, words)>
+	<!ELEMENT id (title, serie?, number_serie?, cat_num1?, cat_num2?, states, year)>
+		<!ELEMENT title (#PCDATA)>
+		<!ELEMENT serie (#PCDATA)>
+		<!ELEMENT number_serie (#PCDATA)>
+		<!ELEMENT cat_num1 (#PCDATA)>
+		<!ELEMENT cat_num2 (#PCDATA)>
+		<!ELEMENT states (#PCDATA)>
+		<!ELEMENT year (#PCDATA)>
+	<!ELEMENT object (measures, inscription?)>
+		<!ELEMENT measures (height, width)>
 			<!ELEMENT height>
 			<!ELEMENT width>
-	<!ELEMENT words(description, commentary)>
-	  <!ELEMENT description #PCDATA>
-		<!ELEMENT commentary(comm1?, comm2?, comm3?)>
-			<!ELEMENT comm1 #PCDATA>
-			<!ELEMENT comm2 #PCDATA>
-			<!ELEMENT comm3 #PCDATA>
-]>
+	<!ELEMENT words (description, commentary)>
+	  <!ELEMENT description (#PCDATA)>
+		<!ELEMENT commentary (comm1?, comm2?, comm3?)>
+			<!ELEMENT comm1 (#PCDATA)>
+			<!ELEMENT comm2 (#PCDATA)>
+			<!ELEMENT comm3 (#PCDATA)>
