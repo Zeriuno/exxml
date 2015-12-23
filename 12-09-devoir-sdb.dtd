@@ -7,7 +7,6 @@
 		<!ELEMENT catalogue (cat_num*)>
 			<!ELEMENT cat_num (#PCDATA)>
 			<!ATTLIST cat_num author CDATA #REQUIRED>
-		<!ELEMENT states (#PCDATA)>
 		<!ELEMENT date (year*)>
 		  <!ELEMENT year (#PCDATA)>
 			<!ATTLIST year author CDATA #IMPLIED>
