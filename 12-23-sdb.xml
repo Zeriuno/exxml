@@ -226,4 +226,75 @@
     </keywords>
   </words>
 </print>
+<print>
+  <id>
+    <title>
+      La Mort à cheval
+    </title>
+    <serie number_serie="1">
+      Les cinq Morts
+    </serie>
+    <catalogue>
+      <cat_num author="Vesme">
+        87
+      </cat_num>
+      <cat_num author="Jombert">
+        137.1
+      </cat_num>
+    </catalogue>
+    <date>
+      <year author="Jombert">
+        1648
+      </year>
+      <year author="Vesme">
+        1648 pr.
+      </year>
+    </date>
+  </id>
+  <object>
+    <measures>
+      <height>
+        168
+      </height>
+      <width>
+        142
+      </width>
+    </measures>
+  </object>
+  <words>
+    <description>
+      La Mort courant à cheval, tenant une trompette avec une grande draperie qui voltige.
+    </description>
+    <commentary>
+      <comm author="Jomber">
+        Les cinq Morts, dans des ovales en hauteur, emportant des personnes de tout âge; sans numéro, et sans aucun nom de graveur ni de marchand. Haut. de l'ovale 6 pou, 3 à 6 lig. larg. 5 pou. 3 lig.
+      </comm>
+      <comm author="Vesme">
+        Les cinq Morts. Suite de cinq pièces ovales, non chiffrées et sans aucune inscription, à l ' exception du nom du graveur qu'on rencontre sur notre n.°90. — Planches: H . de 181 à 190 mm.; L. de 149 à 151 mm. Gravures: H. de 168 à 174mm.; L . de 142 à 148 mm.
+
+
+        La Mort à cheval, tenant à la main une trompette et une draperie. L'animal galope vers la gauche et son pied droit du devant sort de l'ovale. Au loin on aperçoit une autre Mort sur un char traîné par deux vaches.
+
+        1er état. À l'eau-forte pure, sans le fond et sans les figures accessoires. Très-rare.
+        2e état. Terminé. C'est l'état décrit.
+        3e état. Avec l 'adresse de Vincent, à Paris.
+      </comm>
+    </commentary>
+    <keywords>
+      <keyword>
+        mort
+      </keyword>
+      <keyword>
+        allégorie
+      </keyword>
+      <keyword>
+        cheval
+      </keyword>
+      <keyword>
+        trompette
+      </keyword>
+    </keywords>
+  </words>
+</print>
+
 </catalogue_raisonne>
