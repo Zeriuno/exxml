@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf8"?>
-<!DOCTYPE catalogue_raisonne SYSTEM "12-09-devoir-sdb">
+<!DOCTYPE catalogue_raisonne SYSTEM "12-09-devoir-sdb.dtd">
 <catalogue_raisonne>
 <print>
   <id>
