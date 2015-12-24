@@ -416,4 +416,139 @@
       </keywords>
     </words>
   </print>
+  <print>
+    <id>
+      <title>
+        Frontispice
+      </title>
+      <serie number_serie="1">
+        Plusieurs têtes coiffées à la persienne
+      </serie>
+      <catalogue>
+        <cat_num author="Jombert">
+          172.1
+        </cat_num>
+        <cat_num author="Vesme">
+          181
+        </cat_num>
+      </catalogue>
+      <date>
+        <year author="Jombert">
+          1650
+        </year>
+        <year author="Vesme">
+          1649/50
+        </year>
+      </date>
+    </id>
+    <object>
+      <measures>
+        <height>
+          95
+        </height>
+        <width>
+          70
+        </width>
+      </measures>
+      <written>
+        <inscription>
+          "Plusieurs / Testes Coiffées à la Persienne, faitte / Per Ste. D. Bella"
+        </inscription>
+        <inscription>
+          "Israel / Cu. Pri.o Regis"
+        </inscription>
+        <inscription>
+          "1650"
+        </inscription>
+      </written>
+    </object>
+    <words>
+      <description>
+        Jeune homme tenant un cahier inscrit.
+      </description>
+      <commentary>
+        <comm author="Jombert">
+          Plusieurs têtes coëffées à la Persienne, faites per Ste. D Bella. 1650. En douze pièces renfermées dans des ovales en hauteur, de 3 pou. 8 lig. de haut sur 2 pou. 9 lig. de large. Toute cette suite est dessinée et gravée un peu dans le goût de Reimbrandt.
+          1. Le titre sur un papier tenu par un jeune honune coëffé d'un bonnet plat, avec plumes d'autruche pendantes, mêlées avec ses cheveux. On croit que c'est un portrait de la Belle. Dans le haut de l'ovale à droite, on apperçoit le nom d'Israël, gravé à l'eau forte ; de l'autre côté à gauche, on voit le bas d'un cartel où sont les armes du grand-duc, ce qui prouve que la Belle étoit déjà de retour en fon pays lorsqu'il a gravé cette fuite.
+        </comm>
+        <comm author="Vesme">
+          Titre. C'est ce qu'on lit sur un cahier tenu par un jeune homme en buste, tourné de trois quarts à gauche et coiffé d'un bonnet plat, avec des plumes d'autruche retombant sur sa chevelure. Dans le haut de l'ovale, à droite: « Israel / Cu. Pri.o Régis. » À gauche, on voit en partie les armes du grand-duc de Toscane. En bas, en dehors de la gravure, la date: «1650 ». Toutes ces inscriptions sont gravées à l'eau-forte.
+        </comm>
+      </commentary>
+      <keywords>
+        <keyword>
+          orient
+        </keyword>
+        <keyword>
+          jeune
+        </keyword>
+        <keyword>
+          coiffe
+        </keyword>
+        <keyword>
+          Medici
+        </keyword>
+      </keywords>
+    </words>
+  </print>
+  <print>
+    <id>
+      <title>
+        Deux matelots assis
+      </title>
+      <catalogue>
+        <cat_num author="Jombert">
+          217.1
+        </cat_num>
+        <cat_num author="Vesme">
+          196
+        </cat_num>
+      </catalogue>
+      <date>
+        <year author="Jombert">
+          1662
+        </year>
+        <year author="Vesme">
+          1662 pr.
+        </year>
+      </date>
+    </id>
+    <object>
+      <measures>
+        <height>
+          90
+        </height>
+        <width>
+          150
+        </width>
+      </measures>
+    </object>
+    <words>
+      <description>
+        Deux matelots assis
+      </description>
+      <commentary>
+        <comm author="Jombert">
+          Deux autres croquis en longueur: l'un de deux figures de matelots assis.
+        </comm>
+        <comm author="Vesme">
+          Cette estampe nous est inconnue. Jombert la mentionne (n.217) avec notre n.197 , dont elle doit avoir à peu près les dimensions.
+        </comm>
+      </commentary>
+      <keywords>
+        <keyword>
+          matelot
+        </keyword>
+        <keyword>
+          mer
+        </keyword>
+        <keyword>
+          marine
+        </keyword>
+        <keyword>
+          paysage
+        </keyword>
+      </keywords>
+    </words>
+  </print>
 </catalogue_raisonne>
