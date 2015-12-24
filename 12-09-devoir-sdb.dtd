@@ -18,7 +18,8 @@
 			<!ELEMENT inscription (#PCDATA)>
 			<!ELEMENT signature (#PCDATA)>
 		<!ELEMENT state (item+)>
-		  <!ELEMENT item (location, inv_num)>
+		  <!ELEMENT item (location, inv_num?)>
+				<!ATTLIST item source CDATA #REQUIRED>
 			  <!ELEMENT location (#PCDATA)>
 				<!ELEMENT inv_num (#PCDATA)>
 	<!ELEMENT words (description, commentary?, keywords)>
