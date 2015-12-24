@@ -6,7 +6,7 @@
 		  <!ATTLIST serie number_serie CDATA #REQUIRED>
 		<!ELEMENT catalogue (cat_num*)>
 			<!ELEMENT cat_num (#PCDATA)>
-			<!ATTLIST cat_num author CDATA #REQUIRED>
+			<!ATTLIST cat_num author CDATA #IMPLIED>
 		<!ELEMENT date (year*)>
 		  <!ELEMENT year (#PCDATA)>
 			<!ATTLIST year author CDATA #IMPLIED>
