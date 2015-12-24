@@ -2,55 +2,55 @@
 <!DOCTYPE catalogue_raisonne SYSTEM "12-09-devoir-sdb.dtd">
 <catalogue_raisonne>
   <print>
-  <id>
-    <title>
-    </title>
-    <serie number_serie="">
-    </serie>
-    <catalogue>
-      <cat_num author="">
-      </cat_num>
-      <cat_num author="">
-      </cat_num>
-    </catalogue>
-    <date>
-      <year source="">
-      </year>
-    </date>
-  </id>
-  <object>
-    <measures>
-      <height>
-      </height>
-      <width>
-      </width>
-    </measures>
-    <written>
-      <inscription>
-      </inscription>
-      <signature>
-      </signature>
-    </written>
-    <state>
-      <item source="">
-        <location>
-        </location>
-        <inv_num>
-        </inv_num>
-      </item>
-    </state>
-  </object>
-  <words>
-    <description>
-    </description>
-    <commentary>
-      <comm author="">
-      </comm>
-    </commentary>
-  </words>
-  <keywords>
-    <keyword>
-    </keyword>
-  </keywords>
+    <id>
+      <title>
+      </title>
+      <serie number_serie="">
+      </serie>
+      <catalogue>
+        <cat_num author="">
+        </cat_num>
+        <cat_num author="">
+        </cat_num>
+      </catalogue>
+      <date>
+        <year author="">
+        </year>
+      </date>
+    </id>
+    <object>
+      <measures>
+        <height>
+        </height>
+        <width>
+        </width>
+      </measures>
+      <written>
+        <inscription>
+        </inscription>
+        <signature>
+        </signature>
+      </written>
+      <state>
+        <item source="">
+          <location>
+          </location>
+          <inv_num>
+          </inv_num>
+        </item>
+      </state>
+    </object>
+    <words>
+      <description>
+      </description>
+      <commentary>
+        <comm author="">
+        </comm>
+      </commentary>
+      <keywords>
+        <keyword>
+        </keyword>
+      </keywords>
+    </words>
   </print>
 </catalogue_raisonne>

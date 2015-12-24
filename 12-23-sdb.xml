@@ -1,300 +1,419 @@
 <?xml version="1.0" encoding="utf8"?>
 <!DOCTYPE catalogue_raisonne SYSTEM "12-09-devoir-sdb.dtd">
 <catalogue_raisonne>
-<print>
-  <id>
-    <title>
-      Le voyage de Jacob et de Rachel vers la terre de Chanaan
-    </title>
-    <catalogue>
-      <cat_num author="Jombert">
-        107
-      </cat_num>
-      <cat_num author="Vesme">
-        1
-      </cat_num>
-    </catalogue>
-    <date>
-      <year author="Jombert">
-        1645
-      </year>
-      <year author="Vesme">
-        1645 pr.
-      </year>
-    </date>
-  </id>
-  <object>
-    <measures>
-      <height>
-        55
-      </height>
-      <width>
-        119
-      </width>
-    </measures>
-    <written>
-      <signature>
-        "SDBella" en haut, à droite
-      </signature>
-    </written>
-  </object>
-  <words>
-    <description>
-      Au milieu de l'estampe, Rachel, se dirigeant vers la gauche, marche entre son époux et un cheval chargé, sur la croupe duquel elle appuie la main gauche. A droite, on voit avancer un troupeau de différents animaux. A gauche, à quelque distance, un autre troupeau, accompagné d’un berger, se dirige vers le fond.
-    </description>
-    <commentary>
-      <comm author="Jombert">
-        Départ de Jacob de chez Laban, emmenant Rachel et tous fes beltiaux. Petite estampe en travers, du bon tems de la Belle. Haut. 2 pou. long. 4 pou. 5 lig.
-      </comm>
-    </commentary>
-    <keywords>
-      <keyword>
-        bible
-      </keyword>
-      <keyword>
-        ancien testament
-      </keyword>
-      <keyword>
-        voyage
-      </keyword>
-      <keyword>
-        campagne
-      </keyword>
-      <keyword>
-        animaux
-      </keyword>
-      <keyword>
-        troupeau
-      </keyword>
-      <keyword>
-        cheval
-      </keyword>
-      <keyword>
-        fatigue
-      </keyword>
-    </keywords>
-  </words>
-</print>
-<print>
-  <id>
-    <title>
-      Horace Gonzales
-    </title>
-    <catalogue>
-      <cat_num author="Jombert">
-        37
-      </cat_num>
-      <cat_num author="Vesme">
-        35
-      </cat_num>
-    </catalogue>
-    <date>
-      <year author="Jombert">
-        1635
-      </year>
-      <year author="Vesme">
-        1635 pr.
-      </year>
-    </date>
-  </id>
-  <object>
-    <measures>
-      <height>
-        212
-      </height>
-      <width>
-        150
-      </width>
-    </measures>
-    <written>
-      <inscription>
-        Ad Mercurium Ferrarium, Horatii Gonzalis effigies
-      </inscription>
-      <inscription>
-        Gonzales nitet hic Romanâ notus in aulâ,
-        Cujus in humano stat pilus ore ferae.
-        Et tibi qui quondam, Ferrari, junctus amore
-        Vixit, adhuc spirans vivit in obsequio.
-      </inscription>
-    </written>
-  </object>
-  <words>
-    <description>
-      Au milieu de l'estampe, Rachel, se dirigeant vers la gauche, marche entre son époux et un cheval chargé, sur la croupe duquel elle appuie la main gauche. A droite, on voit avancer un troupeau de différents animaux. A gauche, à quelque distance, un autre troupeau, accompagné d’un berger, se dirige vers le fond.
-    </description>
-    <commentary>
-      <comm author="Jombert">
-        Portrait d'un homme célèbre nommé Horatius Gonzales, ressemblant assez à un singe, dans un ovale, entouré d'un cartel: morceau extrêmement rare. On lit autour du portrait: Ad Mercurium Ferrarium, Horatii Gonzalis effigies. On a gravé au bas ces quatre vers latins:
+  <print>
+    <id>
+      <title>
+        Le voyage de Jacob et de Rachel vers la terre de Chanaan
+      </title>
+      <catalogue>
+        <cat_num author="Jombert">
+          107
+        </cat_num>
+        <cat_num author="Vesme">
+          1
+        </cat_num>
+      </catalogue>
+      <date>
+        <year author="Jombert">
+          1645
+        </year>
+        <year author="Vesme">
+          1645 pr.
+        </year>
+      </date>
+    </id>
+    <object>
+      <measures>
+        <height>
+          55
+        </height>
+        <width>
+          119
+        </width>
+      </measures>
+      <written>
+        <signature>
+          "SDBella" en haut, à droite
+        </signature>
+      </written>
+    </object>
+    <words>
+      <description>
+        Au milieu de l'estampe, Rachel, se dirigeant vers la gauche, marche entre son époux et un cheval chargé, sur la croupe duquel elle appuie la main gauche. A droite, on voit avancer un troupeau de différents animaux. A gauche, à quelque distance, un autre troupeau, accompagné d’un berger, se dirige vers le fond.
+      </description>
+      <commentary>
+        <comm author="Jombert">
+          Départ de Jacob de chez Laban, emmenant Rachel et tous fes beltiaux. Petite estampe en travers, du bon tems de la Belle. Haut. 2 pou. long. 4 pou. 5 lig.
+        </comm>
+      </commentary>
+      <keywords>
+        <keyword>
+          bible
+        </keyword>
+        <keyword>
+          ancien testament
+        </keyword>
+        <keyword>
+          voyage
+        </keyword>
+        <keyword>
+          campagne
+        </keyword>
+        <keyword>
+          animaux
+        </keyword>
+        <keyword>
+          troupeau
+        </keyword>
+        <keyword>
+          cheval
+        </keyword>
+        <keyword>
+          fatigue
+        </keyword>
+      </keywords>
+    </words>
+  </print>
+  <print>
+    <id>
+      <title>
+        Horace Gonzales
+      </title>
+      <catalogue>
+        <cat_num author="Jombert">
+          37
+        </cat_num>
+        <cat_num author="Vesme">
+          35
+        </cat_num>
+      </catalogue>
+      <date>
+        <year author="Jombert">
+          1635
+        </year>
+        <year author="Vesme">
+          1635 pr.
+        </year>
+      </date>
+    </id>
+    <object>
+      <measures>
+        <height>
+          212
+        </height>
+        <width>
+          150
+        </width>
+      </measures>
+      <written>
+        <inscription>
+          Ad Mercurium Ferrarium, Horatii Gonzalis effigies
+        </inscription>
+        <inscription>
+          Gonzales nitet hic Romanâ notus in aulâ,
+          Cujus in humano stat pilus ore ferae.
+          Et tibi qui quondam, Ferrari, junctus amore
+          Vixit, adhuc spirans vivit in obsequio.
+        </inscription>
+      </written>
+    </object>
+    <words>
+      <description>
+        Au milieu de l'estampe, Rachel, se dirigeant vers la gauche, marche entre son époux et un cheval chargé, sur la croupe duquel elle appuie la main gauche. A droite, on voit avancer un troupeau de différents animaux. A gauche, à quelque distance, un autre troupeau, accompagné d’un berger, se dirige vers le fond.
+      </description>
+      <commentary>
+        <comm author="Jombert">
+          Portrait d'un homme célèbre nommé Horatius Gonzales, ressemblant assez à un singe, dans un ovale, entouré d'un cartel: morceau extrêmement rare. On lit autour du portrait: Ad Mercurium Ferrarium, Horatii Gonzalis effigies. On a gravé au bas ces quatre vers latins:
 
-        Gonzales nitet hic Romanâ notus in aulâ,
-        Cujus in humano stat pilus ore ferae.
-        Et tibi qui quondam, Ferrari, junctus amore
-        Vixit, adhuc spirans vivit in obsequio.
-      </comm>
-      <comm author="Vesme">
-        Ce portrait est dans un ovale entouré d'un cadre ornemental, et représente un homme en buste, tourné de trois quarts vers la gauche et dont tout le visage est couvert de poils, comme celui d'un singe. Autour de l'ovale: « AD MERCVRIVM FERRARIVM. HORATII GONZALIS EFFIGIES. » En bas, quatre vers latins : « Gonzales nitet hic Romanus notus in aula || Cuius in humaano stat pilus ore ferae || Et tibi... » Sans nom ni marque du graveur.
-      </comm>
-    </commentary>
-    <keywords>
-      <keyword>
-        portrait
-      </keyword>
-      <keyword>
-        court
-      </keyword>
-      <keyword>
-        curiosité
-      </keyword>
-      <keyword>
-        nature
-      </keyword>
-      <keyword>
-        science
-      </keyword>
-    </keywords>
-  </words>
-</print>
-<print>
-  <id>
-    <title>
-      Ornement de thèse, avec la devise Nec metas rerum
-    </title>
-    <catalogue>
-      <cat_num author="Vesme">
-        80
-      </cat_num>
-    </catalogue>
-    <date>
-      <year author="Vesme">
-        1652 pr.
-      </year>
-    </date>
-  </id>
-  <object>
-    <measures>
-      <height>
-        262
-      </height>
-      <width>
-        418
-      </width>
-    </measures>
-    <written>
-      <inscription>
-        Ad Mercurium Ferrarium, Horatii Gonzalis effigies
-      </inscription>
-      <signature>
-        « Stefan. della bella In. et F.t » à gauche en bas.
-      </signature>
-    </written>
-    <state>
-      <item source="Vesme">
-        <location>
-          Città del Vaticano, Biblioteca Vaticana
-        </location>
-      </item>
-      <item source="Vesme">
-        <location>
-          Dresden, Collection Friedriech August II.
-        </location>
-      </item>
-    </state>
-  </object>
-  <words>
-    <description>
-      Un grand ange tenant les armes d'un cardinal et une trompette avec la devise: « NEC METAS RERVM », vole vers la droite de l'estampe. En bas, une campagne avec des bâtiments. A l'extrême gauche, au pied d'un arbre: « Stefan. della bella In. et F.t ».
-    </description>
-    <keywords>
-      <keyword>
-        thèse
-      </keyword>
-      <keyword>
-        édition
-      </keyword>
-      <keyword>
-        théologie
-      </keyword>
-      <keyword>
-        cardinal
-      </keyword>
-      <keyword>
-        trompette
-      </keyword>
-      <keyword>
-        ange
-      </keyword>
-    </keywords>
-  </words>
-</print>
-<print>
-  <id>
-    <title>
-      La Mort à cheval
-    </title>
-    <serie number_serie="1">
-      Les cinq Morts
-    </serie>
-    <catalogue>
-      <cat_num author="Vesme">
-        87
-      </cat_num>
-      <cat_num author="Jombert">
-        137.1
-      </cat_num>
-    </catalogue>
-    <date>
-      <year author="Jombert">
-        1648
-      </year>
-      <year author="Vesme">
-        1648 pr.
-      </year>
-    </date>
-  </id>
-  <object>
-    <measures>
-      <height>
-        168
-      </height>
-      <width>
-        142
-      </width>
-    </measures>
-  </object>
-  <words>
-    <description>
-      La Mort courant à cheval, tenant une trompette avec une grande draperie qui voltige.
-    </description>
-    <commentary>
-      <comm author="Jomber">
-        Les cinq Morts, dans des ovales en hauteur, emportant des personnes de tout âge; sans numéro, et sans aucun nom de graveur ni de marchand. Haut. de l'ovale 6 pou, 3 à 6 lig. larg. 5 pou. 3 lig.
-      </comm>
-      <comm author="Vesme">
-        Les cinq Morts. Suite de cinq pièces ovales, non chiffrées et sans aucune inscription, à l ' exception du nom du graveur qu'on rencontre sur notre n.°90. — Planches: H . de 181 à 190 mm.; L. de 149 à 151 mm. Gravures: H. de 168 à 174mm.; L . de 142 à 148 mm.
+          Gonzales nitet hic Romanâ notus in aulâ,
+          Cujus in humano stat pilus ore ferae.
+          Et tibi qui quondam, Ferrari, junctus amore
+          Vixit, adhuc spirans vivit in obsequio.
+        </comm>
+        <comm author="Vesme">
+          Ce portrait est dans un ovale entouré d'un cadre ornemental, et représente un homme en buste, tourné de trois quarts vers la gauche et dont tout le visage est couvert de poils, comme celui d'un singe. Autour de l'ovale: « AD MERCVRIVM FERRARIVM. HORATII GONZALIS EFFIGIES. » En bas, quatre vers latins : « Gonzales nitet hic Romanus notus in aula || Cuius in humaano stat pilus ore ferae || Et tibi... » Sans nom ni marque du graveur.
+        </comm>
+      </commentary>
+      <keywords>
+        <keyword>
+          portrait
+        </keyword>
+        <keyword>
+          court
+        </keyword>
+        <keyword>
+          curiosité
+        </keyword>
+        <keyword>
+          nature
+        </keyword>
+        <keyword>
+          science
+        </keyword>
+      </keywords>
+    </words>
+  </print>
+  <print>
+    <id>
+      <title>
+        Ornement de thèse, avec la devise Nec metas rerum
+      </title>
+      <catalogue>
+        <cat_num author="Vesme">
+          80
+        </cat_num>
+      </catalogue>
+      <date>
+        <year author="Vesme">
+          1652 pr.
+        </year>
+      </date>
+    </id>
+    <object>
+      <measures>
+        <height>
+          262
+        </height>
+        <width>
+          418
+        </width>
+      </measures>
+      <written>
+        <inscription>
+          Ad Mercurium Ferrarium, Horatii Gonzalis effigies
+        </inscription>
+        <signature>
+          « Stefan. della bella In. et F.t » à gauche en bas.
+        </signature>
+      </written>
+      <state>
+        <item source="Vesme">
+          <location>
+            Città del Vaticano, Biblioteca Vaticana
+          </location>
+        </item>
+        <item source="Vesme">
+          <location>
+            Dresden, Collection Friedriech August II.
+          </location>
+        </item>
+      </state>
+    </object>
+    <words>
+      <description>
+        Un grand ange tenant les armes d'un cardinal et une trompette avec la devise: « NEC METAS RERVM », vole vers la droite de l'estampe. En bas, une campagne avec des bâtiments. A l'extrême gauche, au pied d'un arbre: « Stefan. della bella In. et F.t ».
+      </description>
+      <keywords>
+        <keyword>
+          thèse
+        </keyword>
+        <keyword>
+          édition
+        </keyword>
+        <keyword>
+          théologie
+        </keyword>
+        <keyword>
+          cardinal
+        </keyword>
+        <keyword>
+          trompette
+        </keyword>
+        <keyword>
+          ange
+        </keyword>
+      </keywords>
+    </words>
+  </print>
+  <print>
+    <id>
+      <title>
+        La Mort à cheval
+      </title>
+      <serie number_serie="1">
+        Les cinq Morts
+      </serie>
+      <catalogue>
+        <cat_num author="Vesme">
+          87
+        </cat_num>
+        <cat_num author="Jombert">
+          137.1
+        </cat_num>
+      </catalogue>
+      <date>
+        <year author="Jombert">
+          1648
+        </year>
+        <year author="Vesme">
+          1648 pr.
+        </year>
+      </date>
+    </id>
+    <object>
+      <measures>
+        <height>
+          168
+        </height>
+        <width>
+          142
+        </width>
+      </measures>
+    </object>
+    <words>
+      <description>
+        La Mort courant à cheval, tenant une trompette avec une grande draperie qui voltige.
+      </description>
+      <commentary>
+        <comm author="Jomber">
+          Les cinq Morts, dans des ovales en hauteur, emportant des personnes de tout âge; sans numéro, et sans aucun nom de graveur ni de marchand. Haut. de l'ovale 6 pou, 3 à 6 lig. larg. 5 pou. 3 lig.
+        </comm>
+        <comm author="Vesme">
+          Les cinq Morts. Suite de cinq pièces ovales, non chiffrées et sans aucune inscription, à l ' exception du nom du graveur qu'on rencontre sur notre n.°90. — Planches: H . de 181 à 190 mm.; L. de 149 à 151 mm. Gravures: H. de 168 à 174mm.; L . de 142 à 148 mm.
 
 
-        La Mort à cheval, tenant à la main une trompette et une draperie. L'animal galope vers la gauche et son pied droit du devant sort de l'ovale. Au loin on aperçoit une autre Mort sur un char traîné par deux vaches.
+          La Mort à cheval, tenant à la main une trompette et une draperie. L'animal galope vers la gauche et son pied droit du devant sort de l'ovale. Au loin on aperçoit une autre Mort sur un char traîné par deux vaches.
 
-        1er état. À l'eau-forte pure, sans le fond et sans les figures accessoires. Très-rare.
-        2e état. Terminé. C'est l'état décrit.
-        3e état. Avec l 'adresse de Vincent, à Paris.
-      </comm>
-    </commentary>
-    <keywords>
-      <keyword>
-        mort
-      </keyword>
-      <keyword>
-        allégorie
-      </keyword>
-      <keyword>
-        cheval
-      </keyword>
-      <keyword>
-        trompette
-      </keyword>
-    </keywords>
-  </words>
-</print>
-
+          1er état. À l'eau-forte pure, sans le fond et sans les figures accessoires. Très-rare.
+          2e état. Terminé. C'est l'état décrit.
+          3e état. Avec l 'adresse de Vincent, à Paris.
+        </comm>
+      </commentary>
+      <keywords>
+        <keyword>
+          mort
+        </keyword>
+        <keyword>
+          allégorie
+        </keyword>
+        <keyword>
+          cheval
+        </keyword>
+        <keyword>
+          trompette
+        </keyword>
+      </keywords>
+    </words>
+  </print>
+  <print>
+    <id>
+      <title>
+        Deux enfants qui s'embrassent
+      </title>
+      <catalogue>
+        <cat_num author="Jombert">
+          218
+        </cat_num>
+        <cat_num author="Vesme">
+          94
+        </cat_num>
+      </catalogue>
+      <date>
+        <year author="Jombert">
+          1662
+        </year>
+        <year author="Vesme">
+          1662 pr.
+        </year>
+      </date>
+    </id>
+    <object>
+      <measures>
+        <height>
+          56
+        </height>
+        <width>
+          89
+        </width>
+      </measures>
+    </object>
+    <words>
+      <description>
+        Deux enfants qui s'embrassent.
+      </description>
+      <commentary>
+        <comm author="Jombert">
+        Autre petit croquis d'un jeune homme à
+    mi-corps, qui embrasse un enfant. Haut. 2 po. 2
+    lig. long. 3 po. 4 lig.
+        </comm>
+        <comm author="Vesme">
+          L'aîné, dirigé vers la gauche, entoure de ses bras la taille du cadet, qui lui passe les siens autour du cou. Griffonnement traité avec de l'effet de lavis.
+        </comm>
+      </commentary>
+      <keywords>
+        <keyword>
+          enfants
+        </keyword>
+        <keyword>
+          embrasser
+        </keyword>
+        <keyword>
+          lavis
+        </keyword>
+      </keywords>
+    </words>
+  </print>
+  <print>
+    <id>
+      <title>
+        Un cheval en libérté
+      </title>
+      <serie number_serie="4">
+        Diversi capricci
+      </serie>
+      <catalogue>
+        <cat_num author="Jombert">
+          139.4
+        </cat_num>
+        <cat_num author="Vesme">
+          131
+        </cat_num>
+      </catalogue>
+      <date>
+        <year author="Jombert">
+          1648
+        </year>
+        <year author="Vesme">
+          1648 pr.
+        </year>
+      </date>
+    </id>
+    <object>
+      <measures>
+        <height>
+          79
+        </height>
+        <width>
+          95
+        </width>
+      </measures>
+    </object>
+    <words>
+      <description>
+        Un cheval en libérté courant vers une butte.
+      </description>
+      <commentary>
+        <comm author="Jombert">
+          Diversi capricci fatti par S.D.Bella. En vingt-quatre pièces chiffrées. Haut. 3 pou. long. 3 pou. 6 lig.
+          Un cheval en liberté qui va descendre une butte de terre.
+        </comm>
+        <comm author="Vesme">
+          Un cheval en libérté, dirigé vers le fond de la gauche, va descendre une butte de terre. Plus loin, à gauche, un pâtre à cheval, vu de dos, conduit son troupeau.
+        </comm>
+      </commentary>
+      <keywords>
+        <keyword>
+          animaux
+        </keyword>
+        <keyword>
+          cheval
+        </keyword>
+        <keyword>
+          course
+        </keyword>
+        </keywords>
+    </words>
+  </print>
 </catalogue_raisonne>
