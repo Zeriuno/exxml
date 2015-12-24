@@ -1,9 +1,9 @@
 	<!ELEMENT catalogue_raisonne (print+)>
 	<!ELEMENT print (id, object, words)>
-	<!ELEMENT id (title, serie?, number_serie?, catalogue, date)>
+	<!ELEMENT id (title, serie?, catalogue, date)>
 		<!ELEMENT title (#PCDATA)>
 		<!ELEMENT serie (#PCDATA)>
-		<!ELEMENT number_serie (#PCDATA)>
+		  <!ATTLIST serie number_serie CDATA #REQUIRED>
 		<!ELEMENT catalogue (cat_num*)>
 			<!ELEMENT cat_num (#PCDATA)>
 			<!ATTLIST cat_num author CDATA #REQUIRED>
