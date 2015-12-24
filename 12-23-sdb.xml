@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf8"?>
 <!DOCTYPE catalogue_raisonne SYSTEM "12-09-devoir-sdb">
+<catalogue_raisonne>
 <print>
   <id>
     <title>
@@ -77,3 +78,4 @@
     </keywords>
   </words>
 </print>
+</catalogue_raisonne>
