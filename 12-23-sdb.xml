@@ -117,14 +117,6 @@
         Vixit, adhuc spirans vivit in obsequio.
       </inscription>
     </written>
-    <state>
-      <item>
-        <location>
-        </location>
-        <inv_num>
-        </inv_num>
-      </item>
-    </state>
   </object>
   <words>
     <description>
@@ -158,6 +150,78 @@
       </keyword>
       <keyword>
         science
+      </keyword>
+    </keywords>
+  </words>
+</print>
+<print>
+  <id>
+    <title>
+      Ornement de thèse, avec la devise Nec metas rerum
+    </title>
+    <catalogue>
+      <cat_num author="Vesme">
+        80
+      </cat_num>
+    </catalogue>
+    <date>
+      <year author="Vesme">
+        1652 pr.
+      </year>
+    </date>
+  </id>
+  <object>
+    <measures>
+      <height>
+        262
+      </height>
+      <width>
+        418
+      </width>
+    </measures>
+    <written>
+      <inscription>
+        Ad Mercurium Ferrarium, Horatii Gonzalis effigies
+      </inscription>
+      <signature>
+        « Stefan. della bella In. et F.t » à gauche en bas.
+      </signature>
+    </written>
+    <state>
+      <item source="Vesme">
+        <location>
+          Città del Vaticano, Biblioteca Vaticana
+        </location>
+      </item>
+      <item source="Vesme">
+        <location>
+          Dresden, Collection Friedriech August II.
+        </location>
+      </item>
+    </state>
+  </object>
+  <words>
+    <description>
+      Un grand ange tenant les armes d'un cardinal et une trompette avec la devise: « NEC METAS RERVM », vole vers la droite de l'estampe. En bas, une campagne avec des bâtiments. A l'extrême gauche, au pied d'un arbre: « Stefan. della bella In. et F.t ».
+    </description>
+    <keywords>
+      <keyword>
+        thèse
+      </keyword>
+      <keyword>
+        édition
+      </keyword>
+      <keyword>
+        théologie
+      </keyword>
+      <keyword>
+        cardinal
+      </keyword>
+      <keyword>
+        trompette
+      </keyword>
+      <keyword>
+        ange
       </keyword>
     </keywords>
   </words>
