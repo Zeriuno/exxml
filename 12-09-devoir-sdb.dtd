@@ -3,7 +3,7 @@
 	<!ELEMENT id (title, serie?, catalogue, date)>
 		<!ELEMENT title (#PCDATA)>
 		<!ELEMENT serie (#PCDATA)>
-		  <!ATTLIST serie number_serie CDATA #REQUIRED>
+		  <!ATTLIST serie number_serie CDATA #IMPLIED>
 		<!ELEMENT catalogue (cat_num*)>
 			<!ELEMENT cat_num (#PCDATA)>
 			<!ATTLIST cat_num author CDATA #IMPLIED>
