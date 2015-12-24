@@ -83,4 +83,91 @@
     </keywords>
   </words>
 </print>
+<print>
+  <id>
+    <title>
+      Horace Gonzales
+    </title>
+    <catalogue>
+      <cat_num author="Jombert">
+        37
+      </cat_num>
+      <cat_num author="Vesme">
+        35
+      </cat_num>
+    </catalogue>
+    <date>
+      <year author="Jombert">
+        1635
+      </year>
+      <year author="Vesme">
+        1635 pr.
+      </year>
+    </date>
+  </id>
+  <object>
+    <measures>
+      <height>
+        212
+      </height>
+      <width>
+        150
+      </width>
+    </measures>
+    <written>
+      <inscription>
+        Ad Mercurium Ferrarium, Horatii Gonzalis effigies
+      </inscription>
+      <inscription>
+        Gonzales nitet hic Romanâ notus in aulâ,
+        Cujus in humano stat pilus ore ferae.
+        Et tibi qui quondam, Ferrari, junctus amore
+        Vixit, adhuc spirans vivit in obsequio.
+      </inscription>
+    </written>
+    <state>
+      <item>
+        <location>
+        </location>
+        <inv_num>
+        </inv_num>
+      </item>
+    </state>
+  </object>
+  <words>
+    <description>
+      Au milieu de l'estampe, Rachel, se dirigeant vers la gauche, marche entre son époux et un cheval chargé, sur la croupe duquel elle appuie la main gauche. A droite, on voit avancer un troupeau de différents animaux. A gauche, à quelque distance, un autre troupeau, accompagné d’un berger, se dirige vers le fond.
+    </description>
+    <commentary>
+      <comm author="Jombert">
+        Portrait d'un homme célèbre nommé Horatius Gonzales, ressemblant assez à un singe, dans un ovale, entouré d'un cartel: morceau extrêmement rare. On lit autour du portrait: Ad Mercurium Ferrarium, Horatii Gonzalis effigies. On a gravé au bas ces quatre vers latins:
+
+        Gonzales nitet hic Romanâ notus in aulâ,
+        Cujus in humano stat pilus ore ferae.
+        Et tibi qui quondam, Ferrari, junctus amore
+        Vixit, adhuc spirans vivit in obsequio.
+      </comm>
+      <comm author="Vesme">
+        Ce portrait est dans un ovale entouré d'un cadre ornemental, et représente un homme en buste, tourné de trois quarts vers la gauche et dont tout le visage est couvert de poils, comme celui d'un singe. Autour de l'ovale: « AD MERCVRIVM FERRARIVM. HORATII GONZALIS EFFIGIES. » En bas, quatre vers latins : « Gonzales nitet hic Romanus notus in aula || Cuius in humaano stat pilus ore ferae || Et tibi... » Sans nom ni marque du graveur.
+      </comm>
+    </commentary>
+    <keywords>
+      <keyword>
+        portrait
+      </keyword>
+      <keyword>
+        court
+      </keyword>
+      <keyword>
+        curiosité
+      </keyword>
+      <keyword>
+        nature
+      </keyword>
+      <keyword>
+        science
+      </keyword>
+    </keywords>
+  </words>
+</print>
 </catalogue_raisonne>
