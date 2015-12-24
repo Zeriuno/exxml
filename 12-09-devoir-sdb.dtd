@@ -1,4 +1,4 @@
-	<!ELEMENT catalogue_raisonne (prints+)>
+	<!ELEMENT catalogue_raisonne (print+)>
 	<!ELEMENT print (id, object, words)>
 	<!ELEMENT id (title, serie?, number_serie?, catalogue, date)>
 		<!ELEMENT title (#PCDATA)>
