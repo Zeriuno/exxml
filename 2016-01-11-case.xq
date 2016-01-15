@@ -22,6 +22,6 @@ declare function local:case($x,$y,$c){
 
 {
   for $i in (100)
-  return(local:case($i,$i,$i))
+  return(local:case(100,$i,$i))
 }
 </svg>
