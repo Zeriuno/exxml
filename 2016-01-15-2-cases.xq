@@ -20,8 +20,8 @@ declare function local:case($x,$y,$c){
     <desc>Troisième SVG que j'ai écrit avec mes petites mains qui m'appartiennent à moi tout seul parce que sinon ce serait problématique</desc>
 
 {
-  for $i in (100, 50)
+  for $i in (100, 150)
 
-  return(local:case(100,$i,$i))
+  return(local:case($i,$i,$i))
 }
 </svg>
