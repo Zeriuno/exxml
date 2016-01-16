@@ -33,9 +33,9 @@ declare function local:case($x,$y,$c){
   ,
     local:case($ax, $ay, $c)
   ,
-  <line x1="50" y1="{50+$d}" x2="550" y2="{50+$d}" style="stroke:blue"/>
+  <line x1="5" y1="{5+$d}" x2="55" y2="{5+$d}" style="stroke:blue"/>
   ,
-  <line x1="{50+$d}" y1="50" x2="{50+$d}" y2="550" style="stroke:blue" />
+  <line x1="{5+$d}" y1="5" x2="{5+$d}" y2="55" style="stroke:blue" />
   )
 }
 </svg>
