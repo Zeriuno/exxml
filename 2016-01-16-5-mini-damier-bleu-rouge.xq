@@ -13,8 +13,8 @@ declare function local:case($x,$y,$c){
 <svg xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     version="1.1"
-    width="1000px"
-    height="1000px">
+    width="100px"
+    height="100px">
     <title>SVG</title>
     <desc>Ahoy!</desc>
 
